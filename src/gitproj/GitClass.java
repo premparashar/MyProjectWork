@@ -14,5 +14,6 @@ public class GitClass {
     public String name;
     public String dept;
     public String calc;
+    public String College;
 
 }
