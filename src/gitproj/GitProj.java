@@ -10,7 +10,7 @@ public class GitProj {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //Add something here
+        System.out.println("hello World ");
     }
 
 }
