@@ -15,5 +15,12 @@ public class GitClass {
     public String dept;
     public String calc;
     public String College;
-
+    public void getVaue()
+    {
+        
+    }
+    public void setValue()
+    {
+        
+    }
 }
